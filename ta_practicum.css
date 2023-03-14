@@ -1,0 +1,101 @@
+* {
+    font-family: 'Tenor Sans', sans-serif;
+}
+
+#offerta-del-giorno h1 {
+    margin-top: 40px;
+    font-weight: bold;
+    margin-left: 10px;
+    text-align: start;
+}
+
+#offerta-del-giorno img {
+    width: 700px;
+    height: 400px;
+}
+
+.offerta-della-settimana h2 {
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.offerta-della-settimana h5 {
+    font-weight: bold;
+} 
+
+#summer .container h2 {
+    margin-top: 35px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}
+
+#summer .card-body h5 {
+    font-weight: bold;
+}
+
+#last-minute h1 {
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+#last-minute .card-body h5 {
+    font-weight: bold;
+}
+
+#testimonial h1 {
+    font-weight: bold;
+}
+
+#testimonial .card-title {
+    font-weight: bold;
+    font-style: italic;
+}
+
+#testimonial .card-text {
+    font-style: italic;
+}
+
+
+.btnRew button {
+    margin-left: 75px;
+    margin-bottom: 20px; 
+    border-radius: 50px;
+    border-color: currentColor;
+
+}   
+
+#offerta-del-giorno p:last-of-type {
+    text-align: justify;
+}
+
+
+ 
+
+
+
+
+.navbar-brand img {
+ width: 180px;
+}
+
+.form-inline {
+    margin-left: 500px;
+    display: flex;
+}
+
+#jumbotron h1 {
+    text-align: center;
+    font-weight: bolder;
+}
+
+#jumbotron p {
+    text-align: justify;
+}
+
+
+
+
+
+
+
+
